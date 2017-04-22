@@ -23,7 +23,7 @@ ELECTRON_GYP_HOME=~/.electron-gyp
 mkdir -p $ELECTRON_GYP_HOME
 npm_config_registry=https://registry.npm.taobao.org \
 npm_config_electron_mirror=https://npm.taobao.org/mirrors/electron \
-npm_config_disturl=https://atom.io/download/atom-shell \
+npm_config_disturl=https://npm.taobao.org/mirrors/atom-shell \
 npm_config_target=$ELECTRON_VERSION \
 npm_config_runtime=electron \
 HOME=$ELECTRON_GYP_HOME \
