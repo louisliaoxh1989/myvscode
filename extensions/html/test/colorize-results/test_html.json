@@ -341,7 +341,7 @@
 		}
 	},
 	{
-		"c": "https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.css",
+		"c": "https://cdn.jsdelivr.net/gh/mochajs/mocha@2.2.5/mocha.css",
 		"t": "text.html.basic meta.tag.inline.any.html string.quoted.double.html",
 		"r": {
 			"dark_plus": "string: #CE9178",
@@ -1045,7 +1045,7 @@
 		}
 	},
 	{
-		"c": "<script src=\"https://cdn.rawgit.com/jquery/jquery/2.1.4/dist/jquery.min.js\"></script>",
+		"c": "<script src=\"https://cdn.jsdelivr.net/gh/jquery/jquery@2.1.4/dist/jquery.min.js\"></script>",
 		"t": "text.html.basic comment.block.html",
 		"r": {
 			"dark_plus": "comment: #608B4E",
@@ -1056,7 +1056,7 @@
 		}
 	},
 	{
-		"c": "\t<script src=\"https://cdn.rawgit.com/Automattic/expect.js/0.3.1/index.js\"></script>",
+		"c": "\t<script src=\"https://cdn.jsdelivr.net/gh/Automattic/expect.js@0.3.1/index.js\"></script>",
 		"t": "text.html.basic comment.block.html",
 		"r": {
 			"dark_plus": "comment: #608B4E",
@@ -1287,7 +1287,7 @@
 		}
 	},
 	{
-		"c": "https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.js",
+		"c": "https://cdn.jsdelivr.net/gh/mochajs/mocha@2.2.5/mocha.js",
 		"t": "text.html.basic string.quoted.double.html",
 		"r": {
 			"dark_plus": "string: #CE9178",
